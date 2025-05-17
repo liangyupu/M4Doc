@@ -1,0 +1,9 @@
+{
+    "bf16": {
+        "enabled": true
+    },
+    "train_micro_batch_size_per_gpu": "auto",
+    "zero_optimization": {
+        "stage": 0
+    }
+}
