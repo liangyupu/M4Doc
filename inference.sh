@@ -11,7 +11,7 @@ nougat_model_dir=$base_dir/pretrained_models/nougat-small
 
 dataset_dir=$base_dir/DoTA_dataset
 
-output_dir=$base_dir/results/DoTA
+output_dir=$base_dir/results
 
 export CUDA_VISIBLE_DEVICES=0
 
