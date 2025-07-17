@@ -1,6 +1,6 @@
 # Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation
 
-This is the official repository for **MDoc** framework introduced by the following paper: [***Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation (ACL 2025 Main)***](https://aclanthology.org/2024.naacl-long.392)
+This is the official repository for **MDoc** framework introduced by the following paper: [***Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation (ACL 2025 Main)***](https://arxiv.org/abs/2507.07572)
 
 ## 📜 Abstract
 Document Image Machine Translation (DIMT) aims to translate text within document images, facing generalization challenges due to limited training data and the complex interplay between visual and textual information.
@@ -67,26 +67,21 @@ We also thank [Ucas-HaoranWei/Vary](https://github.com/Ucas-HaoranWei/Vary) proj
 ## ✍🏻 Citation
 If you want to cite our paper, please use the following BibTex entries:
 ```BibTex
-@inproceedings{liang-etal-2024-document,
-    title = "Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling",
+@inproceedings{liang-etal-2025-single,
+    title = "Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation",
     author = "Liang, Yupu  and
       Zhang, Yaping  and
-      Ma, Cong  and
       Zhang, Zhiyang  and
       Zhao, Yang  and
       Xiang, Lu  and
       Zong, Chengqing  and
       Zhou, Yu",
-    editor = "Duh, Kevin  and
-      Gomez, Helena  and
-      Bethard, Steven",
-    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
-    month = jun,
-    year = "2024",
-    address = "Mexico City, Mexico",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+    month = july,
+    year = "2025",
+    address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.naacl-long.392",
-    pages = "7077--7088",
+    url = "https://arxiv.org/abs/2507.07572",
 }
 ```
 
