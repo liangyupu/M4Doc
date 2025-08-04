@@ -1,6 +1,6 @@
 # Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation
 
-This is the official repository for **MDoc** framework introduced by the following paper: [***Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation (ACL 2025 Main)***](https://arxiv.org/abs/2507.07572)
+This is the official repository for **MDoc** framework introduced by the following paper: [***Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation (ACL 2025 Main)***](https://aclanthology.org/2025.acl-long.606/)
 
 ## 📜 Abstract
 Document Image Machine Translation (DIMT) aims to translate text within document images, facing generalization challenges due to limited training data and the complex interplay between visual and textual information.
@@ -76,12 +76,18 @@ If you want to cite our paper, please use the following BibTex entries:
       Xiang, Lu  and
       Zong, Chengqing  and
       Zhou, Yu",
-    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
-    month = july,
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2507.07572",
+    url = "https://aclanthology.org/2025.acl-long.606/",
+    pages = "12391--12408",
+    ISBN = "979-8-89176-251-0",
 }
 ```
 
